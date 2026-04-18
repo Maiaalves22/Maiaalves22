@@ -1,4 +1,13 @@
-## Hi there 👋
+<div align= "center">
+<h1>Olá, me chamo Maiara 👋</h1>
+<h2>Graduanda em Engenharia de Software   |  Otaku 🍙  |    Aprendendo um monte de coisa</h2>
+
+<img width= 40 heitgh= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+<a href="https://instagram.com">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
 
 <!--
 **Maiaalves22/Maiaalves22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
