@@ -4,9 +4,11 @@
 
 <img width= 40 heitgh= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-<a href="https://instagram.com" target="blank">
+<a href="https://instagram.com" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
+
+This site was built using [!(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com).
 
 
 <!--
